@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ab2c8c8-f78f-457a-8555-a9e2f219795e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lumika" beforeDir="false" afterPath="$PROJECT_DIR$/lumika" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lumika/LICENSE" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lumika/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/lumika/lumika/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lumika/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lumika/lumika/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lumika/__main__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lumika/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +32,19 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2mqJijIY81JsrmCaV1AbNlga1Qa" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/pixil/OneDrive/Documents/pbm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pixil/OneDrive/Documents/lumen"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pixil\OneDrive\Documents\lumen\lumika" />

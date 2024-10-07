@@ -35,3 +35,20 @@ Lightweight flexible hybrid terminal for actions and uses specific to some progr
 - ETO (Enter To Continue)
 - Better error handling
 **Highlight**: Non-built in commands now run through the system, and no longer require a subprocess. This also means that output is generated sequentially, and not after the command finishes.
+
+### 3
+- User's Windows username in main prompt now displays 'logged in as' before it
+- More autocomplete terms
+- Credits
+- GitHub repo (https://github.com/elemenom/lumika)
+- Smart keybindings*
+- Bug fixes
+**Highlight**: Orbitshell-like structure, allows consecutive commands without in-line scripts
+
+*Smart keybindings:
+- RETURN (in the main prompt) --------------------------------------------------- submit (if something is inputted)/next line (if empty)
+- CTRL+C (in the main prompt) --------------------------------------------------- terminate current chain
+- Hold CTRL+C (in the main prompt) ---------------------------------------------- exit lumika completely
+- RETURN (after a command) ------------------------------------------------------ submit a consecutive command
+- CTRL+C (after a command) ------------------------------------------------------ terminate current chain
+- Hold CTRL+C (after a command) ------------------------------------------------- exit lumika completely

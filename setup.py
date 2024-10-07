@@ -5,7 +5,7 @@ with open("README.md", encoding="utf-8") as file:
 
 setup(
     name="lumika",
-    version="2",
+    version="3",
     author="elemenom",
     author_email="pixilreal@gmail.com",
     description="Version control at its fullest.",
